@@ -14,6 +14,6 @@ public class PrimeNumber1 {
             if (n==i) // 마지막까지 나누어 떨어지지 않음
                 System.out.println("n");
         }
-        System.out.println("나눗셈을 수행한 횟수 :" + counter);
+        System.out.println("나눗셈을 수행한 횟 수 :" + counter);
     }
 }
